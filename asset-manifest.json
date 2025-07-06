@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FindYourdishs/static/css/main.114246c9.css",
+    "main.js": "/FindYourdishs/static/js/main.3226f15a.js",
+    "static/js/453.454f1af5.chunk.js": "/FindYourdishs/static/js/453.454f1af5.chunk.js",
+    "static/media/r2.jpg": "/FindYourdishs/static/media/r2.498851d5eb687688b649.jpg",
+    "static/media/dish.jpg": "/FindYourdishs/static/media/dish.59282063aebe9f2f63c6.jpg",
+    "static/media/r1.jpg": "/FindYourdishs/static/media/r1.4f476f34895e3a3504f7.jpg",
+    "static/media/r3.jpg": "/FindYourdishs/static/media/r3.e4ebb2f0a36dad0cd25e.jpg",
+    "static/media/loupe.png": "/FindYourdishs/static/media/loupe.50b390b91fac6b1f4075.png",
+    "static/media/go.jpg": "/FindYourdishs/static/media/go.8914157cb091d756c135.jpg",
+    "static/media/map.jpg": "/FindYourdishs/static/media/map.99f7160b716bc75708ae.jpg",
+    "static/media/respo.jpg": "/FindYourdishs/static/media/respo.55471792e800ca5daddc.jpg",
+    "static/media/gourmet.jpg": "/FindYourdishs/static/media/gourmet.e3225824b1bbdb0e1bfa.jpg",
+    "static/media/dishlogo.png": "/FindYourdishs/static/media/dishlogo.853212f6682ff9b35507.png",
+    "index.html": "/FindYourdishs/index.html",
+    "main.114246c9.css.map": "/FindYourdishs/static/css/main.114246c9.css.map",
+    "main.3226f15a.js.map": "/FindYourdishs/static/js/main.3226f15a.js.map",
+    "453.454f1af5.chunk.js.map": "/FindYourdishs/static/js/453.454f1af5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.114246c9.css",
+    "static/js/main.3226f15a.js"
+  ]
+}
